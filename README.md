@@ -1,2 +1,2 @@
 # theoneyearproject
-theoneyearproject backup repostitory
+theoneyearproject.ie backup repository
