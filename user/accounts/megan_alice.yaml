@@ -6,6 +6,8 @@ access:
   admin:
     login: true
     pages: true
+    maintenance: true
+    statistics: true
   site:
     login: true
 hashed_password: $2y$10$srDJYiXKrb6wsfkw981oreuHlZNmMB2vaFSke8Fiy3ufG5V7Nu1RC
