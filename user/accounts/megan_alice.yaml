@@ -1,0 +1,12 @@
+email: megandaly567@gmail.com
+fullname: megan_alice
+title: 'Site Content Updater'
+state: enabled
+access:
+  admin:
+    login: true
+    pages: true
+  site:
+    login: true
+hashed_password: $2y$10$srDJYiXKrb6wsfkw981oreuHlZNmMB2vaFSke8Fiy3ufG5V7Nu1RC
+reset: '3f89e055526ca923053502c853531659::1483638139'
